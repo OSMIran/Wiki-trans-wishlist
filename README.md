@@ -17,9 +17,11 @@
 <div dir=rtl>
 
 # ترجمه ناقص
+[لیست همهٔ ترجمه‌های ناقص در ویکی](https://wiki.openstreetmap.org/wiki/Category:Fa:Translation_not_complete) - همهٔ آن‌ها جزو موارد درخواستی نیست!
 </div>
  
 - [ ] [برخی استانداردها و قواعد ویرایش نقشه](https://wiki.openstreetmap.org/wiki/Fa:Editing_Standards_and_Conventions) 
+
 
 <div dir=rtl>
 
